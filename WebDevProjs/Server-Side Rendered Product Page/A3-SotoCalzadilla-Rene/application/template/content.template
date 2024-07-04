@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="/css/page.css">   
+	<title>Low Price Laptop Hub</title>
+</head>
+<body>
+	<header>
+		<img id="logo" src="../img/logo.png"/>
+		<h1 id="web-name">LPL Hub</h1>
+		<form class="search-bar" action="/application/query" method="post">
+			<div id="input-container">
+			<input id="searchInput" type="text" name="search">
+			<button id="searchBt" type="submit"> &#x1F50D;</button>
+			</div>
+		</form>
+		<a href="/application"><h2 id="home-nav">Home</h2></a>
+	</header>
+
+    <div class="page container">
+		<div class="left-section">
+		<div id="content-left-section"></div>
+		</div>
+		<div class="prod-mid-section">
+			{{product}}
+		</div>
+		<div class="right-section">
+		<div id="r-sect-border"></div>
+		</div>
+		
+    </div>
+</body>
+</html>
+

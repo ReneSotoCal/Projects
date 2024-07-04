@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="/css/page.css">   
+	<title>Low Price Laptop Hub</title>
+</head>
+
+<body>
+    <header>
+		<img id="logo" src="img/logo.png"/>
+		<h1 id="web-name">LPL Hub</h1>
+		<form class="search-bar" action="/application/query" method="post">
+			<div id="input-container">
+			<input id="searchInput" type="text" name="search">
+			<button id="searchBt" type="submit"> &#x1F50D;</button>
+			</div>
+		</form>
+		<a href="/application"><h2 id="home-nav">Home</h2></a>
+		
+
+	</header>
+    <div class="page container">
+		
+		<div class="left-section">
+			<div id="filters">
+				<div id="clearFilterCont">
+					<h4 class="filter-lbls" id="clearFilter"><a class="filterLinks" href="../application">Clear All</a></h4>
+				</div>
+				<div id="brands" >
+					<h4 class="filter-lbls">Brands</h4>
+					{{brands}}
+				</div>
+				<div id="models" >
+					<h4 class="filter-lbls">Models</h4>
+					{{models}}
+				</div>
+				<div id="screen-sizes" >
+					<h4 class="filter-lbls">Screen Sizes</h4>
+					{{screen sizes}}
+				</div>
+				<div id="colors" >
+					<h4 class="filter-lbls">Colors</h4>
+					{{colors}}
+				</div>	
+				<div id="operating-systems" >
+					<h4 class="filter-lbls">Operating Systems</h4>
+					{{operating systems}}
+				</div>	
+			</div>
+		</div>
+		<div class="middle-section">
+		<div id="resultsContainer">{{results counter}}</div>
+			{{products}}
+		</div>
+		<div class="right-section">
+		<div id="r-sect-border"></div>
+		</div>
+    </div>
+</body>
+</html>
+
+
+
+

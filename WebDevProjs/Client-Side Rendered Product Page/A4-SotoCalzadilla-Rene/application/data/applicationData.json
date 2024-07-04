@@ -1,0 +1,127 @@
+[
+    {"index": 1,
+     "path": "/LENOVO-IdeaPad-1-Laptop-FHD-Display",
+     "name": "LENOVO IdeaPad 1 Laptop, 15.6” FHD Display",
+     "price": 359,
+     "shortDescription": "Intel Celeron N4500 Processor, 12GB RAM, 512GB SSD, SD Card Reader, Numeric Keypad, Windows 11 Home, 1 Year Office 365",
+     "longDescription": "<b>High Speed RAM and Enormous Space</b> 12GB high-bandwidth RAM to smoothly run multiple applications and browser tabs all at once; 512GB PCIe NVMe M.2 Solid State Drive allows to fast bootup and data transfer.<br><br><b>Processor</b> Intel Celeron N4500 (2 Cores, 2 Threads, Clock Speed: 1.1 GHz, Turbo Speed: 2.8 GHz). <br><br><b>Tech Specs</b> 1 x USB Type-A 3.0, 1 x USB Type-A 2.0, 1 x USB Type-C, 1 x HDMI, 1 x Headphone/Microphone Combo, Numeric Keypad, Webcam, Wi-Fi 6, Bluetooth, SD Card Reader.",
+     "image": "img/Laptop1.png",
+     "tags": [
+        {"brand": "LENOVO"},
+        {"model": "IdeaPad 1"},
+        {"screenSize": 15.6},
+        {"operatingSystem": "Windows 11 Home"},
+        {"color": "Gray"}
+   ]
+},
+
+    {"index": 2,
+     "path": "/ApoloSign-Laptop",
+     "name": "ApoloSign 15.6\" Laptop",
+     "price": 329,
+     "shortDescription": "Expandable 1TB, 12GB RAM, 512GB SSD, with Intel N5095, and Full HD Display, 178° Open Angle, Dual Speakers",
+     "longDescription": "<b>Robust Storage and Smooth Operations</b> Experience seamless performance with the powerful combination of 12GB LPDDR4 RAM and a rapid 512GB SSD. Effortlessly manage multiple applications and multimedia tasks, with the option to expand storage via the TF card slot supporting up to 1TB expansion. <br><br><b>Processor</b> Intel Celeron N5095 (Clock Speed: up to 2.9 GHz) <br><br><b>Portable</b> and Versatile Connectivity Weighing just 1.7kg and measuring 20mm thin, this ultra-thin laptop offers convenient portability. Enjoy versatile connectivity options, including Bluetooth 4.2, dual-band WiFi, Mini HDMI, USB 3.2 Gen1 ports, Type-C port, headphone jack, Micro TF slot, and a long-lasting 7.6V/5000mWh battery, catering to all your connectivity needs.",
+     "image": "img/Laptop2.png",
+     "tags": [
+        {"brand": "ApoloSign"},
+        {"model": "NJP1561P-02"},
+        {"screenSize": 15.6},
+        {"operatingSystem": "Windows 11"},
+        {"color": "Gray"}
+    ]
+    },
+    {"index": 3,
+     "path": "/HP-Pavilion-HD-Touchscreen-Anti-Glare-Laptop",
+     "name": "HP Pavilion 15.6\" HD Touchscreen Anti-Glare Laptop",
+     "price": 429,
+     "shortDescription": "16GB RAM, 1TB SSD, Intel Core Processor up to 4.1GHz, Long Battery Life, Type-C, HDMI, Windows 11 Home",
+     "longDescription": "<b>RAM and Storage</b> RAM is upgraded to 16GB high-bandwidth RAM to smoothly run multiple applications and browser tabs all at once; Hard Drive is upgraded to 1TB PCIe NVMe Solid State Drive allows to fast bootup and data transfer.<br><br><b>Processor</b> Intel Core i3-1115G4 (up to 4.1 GHz with Intel Turbo Boost Technology, 6 MB L3 cache, 2 cores, 4 threads)<br><br><b>Ports</b> 1 SuperSpeed USB Type-C 5Gbps signaling rate; 2 SuperSpeed USB Type-A 5Gbps signaling rate; 1 HDMI 1.4b; 1 AC smart pin; 1 headphone/microphone combo",
+     "image": "img/Laptop3.png",
+     "tags": [
+        {"brand": "HP"},
+        {"model": "Pavilion"},
+        {"screenSize": 15.6},
+        {"operatingSystem": "Windows 11 Home"},
+        {"color": "Silver"}
+    ]
+},
+
+   {"index": 4,
+    "path": "/HP-2023-HD-IPS-Laptop",
+    "name": "HP 2023 15\" HD IPS Laptop",
+    "price": 225,
+    "shortDescription": "Windows 11, Intel Pentium 4-Core Processor, 8GB RAM, 128GB SSD, HDMI, 6th Gen WiFi - (Renewed)",
+    "longDescription": "<b>RAM And Storage</b> 8GB RAM, 128GB SSD<br><br><b>Processor</b> Intel Pentium 4-Core Processor Up to 2.70GHz<br><br><b>Tech Specs</b> 1x USB Type C, 2x USB Type A, 1x HDMI, 1x Headphone/Microphone Jack, SD Card Reader, Super-fast 6th Gen Wifi and Bluetooth 5, HD Webcam<br><br><b>Display</b> 15inch Diagonal, HD (1366 x 768), Micro-edge, BrightView Display, Intel Graphics",
+    "image": "img/Laptop4.png",
+    "tags": [
+        {"brand": "HP"},
+        {"model": "HP 15in Laptop"},
+        {"screenSize": 15},
+        {"operatingSystem": "Windows 11"},
+        {"color": "Dale Red"}
+   ]
+},
+
+    {"index": 5,
+     "path": "/2019-Apple-MacBook-Pro",
+     "name": "2019 Apple MacBook Pro",
+     "price": 431.73,
+     "shortDescription": "1.4GHz Intel Core i5 (13 inch, 8GB RAM, 128GB SSD) - (Renewed)",
+     "longDescription": "<b>Display</b> Intel Iris Plus Graphics 645, Brilliant Retina Display with True Tone technology<br><br><b>Processor</b> 1.34Hz Quad-core 8th-Generation Intel Core i5 Processor<br><br><b>Tech Specs</b> Two Thunderbolt 3 (USB-C) ports, Up to 10 hours of battery life, Touch Bar and Touch ID<br><br><b>RAM and Storage</b> Ultrafast SSD, 128GB SSD, 8GB RAM ",
+     "image": "img/Laptop5.png",
+     "tags": [
+        {"brand": "Apple"},
+        {"model": "MacBook Pro"},
+        {"screenSize": 13},
+        {"operatingSystem": "macOS"},
+        {"color": "Space Gray"}
+        ]
+  },
+  
+    {"index": 6,
+     "path": "/HP-Portable-HD-IPS-Laptop",
+     "name": "HP Portable 13.8\" HD IPS Laptop",
+     "price": 155.69,
+     "shortDescription": "Intel Celeron N Processor, 4GB DDR4, 64GB SSD, HDMI, RJ45, Webcam, Bluetooth, Windows 11 - (Renewed)",
+     "longDescription": "<b>Display</b> 13.8\" Brightview HD(1366x768) IPS Display, Intel UHD Graphics<br><br><b>Processor</b> Intel Celeron N Processor Up to 2.75GHz<br><br><b>Tech Specs</b> 1x USB Type C, 2x USB Type A, 1x HDMI, 1x Headphone/Microphone Combo Jack",
+     "image": "img/Laptop6.png",
+     "tags": [
+        {"brand": "HP"},
+        {"model": "HP Portable 13.8in Laptop"},
+        {"screenSize": 13.8},
+        {"operatingSystem": "Windows 11"},
+        {"color": "Pastel Pink"}
+   ]
+},
+
+    {"index": 7,
+     "path": "/Apple-15in-MacBook-Pro",
+     "name": "Apple 15in MacBook Pro",
+     "price": 393.98,
+     "shortDescription": "Retina, Touch Bar, 2.9GHz Intel Core i7 Quad Core, 16GB RAM, 512GB SSD - (Renewed)",
+     "longDescription": "<b>Pre-Owned</b> Renewed products look and work like new. These pre-owned products have been inspected and tested by LPLHub-qualified suppliers, which typically perform a full diagnostic test, replacement of any defective parts, and a thorough cleaning process. Packaging and accessories may be generic. All products on LBLHub Renewed come with a minimum 90-day supplier-backed warranty.<br><br><b>Processor</b> 2.9GHz quad-core Intel Core i7 processor with Turbo Boost up to 3.9GHz<br><br><b>Storage and Memory</b> 512GB SSD storage, 16GB 2133MHz LPDDR3 memory",
+     "image": "img/Laptop7.png",
+     "tags": [
+        {"brand": "Apple"},
+        {"model": "MacBook Pro"},
+        {"screenSize": 15},
+        {"operatingSystem": "macOS"},
+        {"color": "Space Gray"}
+   ]
+},
+    {"index": 8,
+     "path": "/Dell-2024-Business-Laptop",
+     "name": "Dell 2024 Business Laptop 15.6\" FHD Touchscreen Display",
+     "price": 479,
+     "shortDescription": "Intel 10-Core i5-1235U, 8GB RAM, 256GB SSD, Windows 11 Pro",
+     "longDescription": "<b>Microsoft Office</b> Free Microsoft Office 2021 Professional Plus included, No payment or Code needed.<br><br><b>Processor and Graphics</b> 12th Gen Intel Core i5-1235U Processor and Intel UHD Graphics. The 12th Gen Intel Core i5-1235U Processor is a high-performance CPU with 10-core capabilities and hyper-threading for multitasking.<br><br><b>RAM and Capacity</b> Enjoy advanced multitasking with 8GB of high-bandwidth RAM, perfect for running games and multiple programs simultaneously. The system also includes a 256GB M.2 PCIe NVMe SSD, offering fast data access, quick start-up times, silent operation, and improved battery life",
+     "image": "img/Laptop8.png",
+     "tags": [
+        {"brand": "Dell"},
+        {"model": "Business Laptop"},
+        {"screenSize": 15.6},
+        {"operatingSystem": "Windows 11 Pro"},
+        {"color": "Black"}
+   ]
+}
+]
