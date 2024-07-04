@@ -3,7 +3,7 @@ This repository showcases a collection of notable projects that I have worked on
 
 Folder Structure
 --------------------
-Java: Projects demonstrating my proficiency in Java programming.
-JavaScript: Web design projects using HTML and CSS, and JavaScript, including both frontend and backend projects.
-HTML/CSS:
-Node.js: Projects highlighting my experience with Node.js.
+* Java: Projects demonstrating my proficiency in Java programming.
+* JavaScript: Web design projects using HTML and CSS, and JavaScript, including both frontend and backend projects.
+* HTML/CSS:
+* Node.js: Projects highlighting my experience with Node.js.
